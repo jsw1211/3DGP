@@ -1,0 +1,6 @@
+﻿  LabProject01.cpp
+C:\Users\정승원\source\repos\3DGP\LabProjects\LabProject01\LabProject01.cpp(19,13): warning C4273: 'AdjustWindowRect': dll 연결이 일치하지 않습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9011,1):
+  'AdjustWindowRect'의 이전 정의를 참조하십시오.
+  
+  LabProject01.vcxproj -> C:\Users\정승원\source\repos\3DGP\LabProjects\x64\Debug\LabProject01.exe
